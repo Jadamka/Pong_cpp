@@ -1,0 +1,7 @@
+﻿  win32_platformer.cpp
+C:\Users\adamk\Desktop\C++\Games\Pong_cpp\Pong_cpp\renderer.cpp(43,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\adamk\Desktop\C++\Games\Pong_cpp\Pong_cpp\renderer.cpp(44,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\adamk\Desktop\C++\Games\Pong_cpp\Pong_cpp\renderer.cpp(45,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\adamk\Desktop\C++\Games\Pong_cpp\Pong_cpp\renderer.cpp(46,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\adamk\Desktop\C++\Games\Pong_cpp\Pong_cpp\win32_platformer.cpp(55,5): warning C4007: 'WinMain': must be '__stdcall'
+  Pong_cpp.vcxproj -> C:\Users\adamk\Desktop\C++\Games\Pong_cpp\Debug\Pong_cpp.exe
